@@ -2,7 +2,6 @@
 - 👀 I’m interested in software development
 - 🌱 I’m a graduate student specializing Computer Science in Northeastern University
 - 💞️ I’m seeking internship/Coop in spring/summer/fall 2023!
-- 📫 How to reach me: maxcata1998@gmail.com
 - ✨ Connect with me: https://www.linkedin.com/in/xiao-flora-ma-5584101a3/
 
 <!---
